@@ -1,6 +1,6 @@
 # portfolio_v3
 
-## Tech Stack : 
+## Tech Stack
 - HTML
 - CSS
 - JAVASCRIPT
