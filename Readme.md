@@ -1,6 +1,10 @@
 # portfolio_v3
 
-## This website is built using HTML, CSS, JAVASCRIPT, BOOTSTRAP.
+## Tech Stack : 
+- HTML
+- CSS
+- JAVASCRIPT
+- BOOTSTRAP.
 
 To visit this website, please click -> https://ashutoshkumarportfolio.netlify.app/
 
