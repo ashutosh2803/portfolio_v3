@@ -26,7 +26,6 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-  <link rel="manifest" href="manifest.json">
 </head>
 
 <body>
@@ -609,16 +608,6 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js">
-  </script>
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker
-          .register('./serviceWorker.js')
-          .then((reg) => console.log('Success: ', reg.scope))
-          .catch((err) => console.log('Failure: ', err));
-      });
-    }
   </script>
 </body>
 
