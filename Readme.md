@@ -6,8 +6,9 @@
 - JAVASCRIPT
 - BOOTSTRAP.
 
-To visit this website, please click -> https://ashutoshkumarportfolio.netlify.app/
-
+To visit this website, please click 
+- Netlify: https://ashutoshkumarportfolio.netlify.app/
+- Vercel : https://portfolio-v3-ecru-nine.vercel.app/
 
 ![Portfolio v3](https://user-images.githubusercontent.com/40117155/230496345-1e3ca32e-94db-4afb-a4d2-74d4f04934ac.png)
 
